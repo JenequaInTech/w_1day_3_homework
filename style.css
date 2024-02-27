@@ -1,0 +1,23 @@
+.link-blue {
+    color: blue;
+    text-decoration: underline;
+}
+.small-text {
+    font-size: 0.8rem;
+}
+
+.NEW TO FAKE AMAZON {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    font-size: 0.8rem; 
+}
+
+.NEW TO FAKE AMAZON:before,
+.NEW TO FAKE AMAZON:after {;
+    flex: 1;
+    height: 1px;
+    background: gray;
+    margin: 0 10px;
+}
